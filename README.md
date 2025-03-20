@@ -12,9 +12,10 @@ Buka terminal atau command prompt
 
 Navigasikan ke direktori yang berisi skrip Python
 
-cd C:Users\ASUS\Documents\Submission\dashboard.py
+cd C:Users\ASUS\Documents\Submission\dashboard
 
-Jalankan Streamlit
+# Jalankan Streamlit
+
 streamlit run dashboard.py
 
 Gantilah dashboard.py dengan nama file Python Anda.
