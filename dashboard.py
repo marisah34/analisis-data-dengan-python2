@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load dataset
-day_df = pd.read_csv("dashboard/all_df.csv")
+day_df = pd.read_csv("all_df.csv")
 
 # Title
 st.title("Dashboard Analisis Peminjaman Sepeda")
